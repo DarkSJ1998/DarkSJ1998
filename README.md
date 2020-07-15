@@ -1,5 +1,10 @@
 ### Hi there 👋
+Great to see you found my GitHub Profile :)
 
+#### About me
+- 🌆 Incoming Full Stack Developer at Verizon, India
+- 🌱 Hungry Learner
+- 💻 Like to code
 <!--
 **DarkSJ1998/DarkSJ1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
