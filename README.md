@@ -1,8 +1,8 @@
 ### Hi there 👋
-Great to see you found my GitHub Profile :)
+Glad to see you found my GitHub Profile :)
 
 #### About me
-- 🌆 Incoming Full Stack Developer at Verizon, India
+- 🌆 Full Stack Developer at Verizon India
 - 🌱 Hungry Learner
 - 💻 Like to code
 <!--
