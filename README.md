@@ -2,9 +2,18 @@
 Glad to see you found my GitHub Profile :)
 
 #### About me
-- 🌆 Full Stack Developer at Verizon India
-- 🌱 Hungry Learner
-- 💻 Like to code
+- 💼 Software Development Engineer 3 - Full Stack at Verizon India
+- 🌱 A person with passion for continuous learning 
+- 💻 Like to build (and break) things with code
+
+#### Tech stack
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Angular-%23B5314C?logo=angular&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=%23FFFFFF)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F3?logo=springboot&logoColor=%23FFFFFF)
+
+
 <!--
 **DarkSJ1998/DarkSJ1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
