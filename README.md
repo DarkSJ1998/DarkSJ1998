@@ -2,7 +2,8 @@
 Glad to see you found my GitHub Profile :)
 
 #### About me
-- 💼 Software Development Engineer 3 - Full Stack at Verizon India
+- 💼 Associate at BlackRock | former SDE3 at Verizon
+- ⚙️ Full Stack Development
 - 🌱 A person with passion for continuous learning 
 - 💻 Like to build (and break) things with code
 
